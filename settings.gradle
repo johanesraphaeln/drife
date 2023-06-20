@@ -1,0 +1,3 @@
+rootProject.name = "drife"
+include ':app'
+include ':openCVLibrary343'
