@@ -1,29 +1,29 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Telkom University\Kuliah\Tingkat 3\Semester 6\IOT\TUBES\drife\openCVLibrary343\src\main\AndroidManifest.xml:2:1-6:12
-INJECTED from D:\Telkom University\Kuliah\Tingkat 3\Semester 6\IOT\TUBES\drife\openCVLibrary343\src\main\AndroidManifest.xml:2:1-6:12
-INJECTED from D:\Telkom University\Kuliah\Tingkat 3\Semester 6\IOT\TUBES\drife\openCVLibrary343\src\main\AndroidManifest.xml:2:1-6:12
+ADDED from D:\drife-iot-project\openCVLibrary343\src\main\AndroidManifest.xml:2:1-6:12
+INJECTED from D:\drife-iot-project\openCVLibrary343\src\main\AndroidManifest.xml:2:1-6:12
+INJECTED from D:\drife-iot-project\openCVLibrary343\src\main\AndroidManifest.xml:2:1-6:12
 	package
-		INJECTED from D:\Telkom University\Kuliah\Tingkat 3\Semester 6\IOT\TUBES\drife\openCVLibrary343\src\main\AndroidManifest.xml
-		ADDED from D:\Telkom University\Kuliah\Tingkat 3\Semester 6\IOT\TUBES\drife\openCVLibrary343\src\main\AndroidManifest.xml:2:1-6:12
-		INJECTED from D:\Telkom University\Kuliah\Tingkat 3\Semester 6\IOT\TUBES\drife\openCVLibrary343\src\main\AndroidManifest.xml
+		INJECTED from D:\drife-iot-project\openCVLibrary343\src\main\AndroidManifest.xml
+		ADDED from D:\drife-iot-project\openCVLibrary343\src\main\AndroidManifest.xml:2:1-6:12
+		INJECTED from D:\drife-iot-project\openCVLibrary343\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\Telkom University\Kuliah\Tingkat 3\Semester 6\IOT\TUBES\drife\openCVLibrary343\src\main\AndroidManifest.xml:4:7-34
+		ADDED from D:\drife-iot-project\openCVLibrary343\src\main\AndroidManifest.xml:4:7-34
 	xmlns:android
-		ADDED from D:\Telkom University\Kuliah\Tingkat 3\Semester 6\IOT\TUBES\drife\openCVLibrary343\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\drife-iot-project\openCVLibrary343\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from D:\Telkom University\Kuliah\Tingkat 3\Semester 6\IOT\TUBES\drife\openCVLibrary343\src\main\AndroidManifest.xml:3:7-33
+		ADDED from D:\drife-iot-project\openCVLibrary343\src\main\AndroidManifest.xml:3:7-33
 uses-sdk
-INJECTED from D:\Telkom University\Kuliah\Tingkat 3\Semester 6\IOT\TUBES\drife\openCVLibrary343\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Telkom University\Kuliah\Tingkat 3\Semester 6\IOT\TUBES\drife\openCVLibrary343\src\main\AndroidManifest.xml
-INJECTED from D:\Telkom University\Kuliah\Tingkat 3\Semester 6\IOT\TUBES\drife\openCVLibrary343\src\main\AndroidManifest.xml
-INJECTED from D:\Telkom University\Kuliah\Tingkat 3\Semester 6\IOT\TUBES\drife\openCVLibrary343\src\main\AndroidManifest.xml
-INJECTED from D:\Telkom University\Kuliah\Tingkat 3\Semester 6\IOT\TUBES\drife\openCVLibrary343\src\main\AndroidManifest.xml
+INJECTED from D:\drife-iot-project\openCVLibrary343\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\drife-iot-project\openCVLibrary343\src\main\AndroidManifest.xml
+INJECTED from D:\drife-iot-project\openCVLibrary343\src\main\AndroidManifest.xml
+INJECTED from D:\drife-iot-project\openCVLibrary343\src\main\AndroidManifest.xml
+INJECTED from D:\drife-iot-project\openCVLibrary343\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Telkom University\Kuliah\Tingkat 3\Semester 6\IOT\TUBES\drife\openCVLibrary343\src\main\AndroidManifest.xml
-		ADDED from D:\Telkom University\Kuliah\Tingkat 3\Semester 6\IOT\TUBES\drife\openCVLibrary343\src\main\AndroidManifest.xml
-		INJECTED from D:\Telkom University\Kuliah\Tingkat 3\Semester 6\IOT\TUBES\drife\openCVLibrary343\src\main\AndroidManifest.xml
+		INJECTED from D:\drife-iot-project\openCVLibrary343\src\main\AndroidManifest.xml
+		ADDED from D:\drife-iot-project\openCVLibrary343\src\main\AndroidManifest.xml
+		INJECTED from D:\drife-iot-project\openCVLibrary343\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Telkom University\Kuliah\Tingkat 3\Semester 6\IOT\TUBES\drife\openCVLibrary343\src\main\AndroidManifest.xml
-		ADDED from D:\Telkom University\Kuliah\Tingkat 3\Semester 6\IOT\TUBES\drife\openCVLibrary343\src\main\AndroidManifest.xml
-		INJECTED from D:\Telkom University\Kuliah\Tingkat 3\Semester 6\IOT\TUBES\drife\openCVLibrary343\src\main\AndroidManifest.xml
+		INJECTED from D:\drife-iot-project\openCVLibrary343\src\main\AndroidManifest.xml
+		ADDED from D:\drife-iot-project\openCVLibrary343\src\main\AndroidManifest.xml
+		INJECTED from D:\drife-iot-project\openCVLibrary343\src\main\AndroidManifest.xml

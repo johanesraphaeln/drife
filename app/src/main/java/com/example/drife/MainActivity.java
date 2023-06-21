@@ -157,9 +157,9 @@ public class MainActivity extends AppCompatActivity implements CameraBridgeViewB
                 int radius = (int) Math.round((eye.width + eye.height) * 0.25);
                 Log.i("eyeRadius", String.valueOf(radius));
                 Imgproc.circle(mRgb, eyeCenter, radius, new Scalar(255, 0, 0), 4);
-
+                Log.d("RADIUS", String.valueOf(radius));
                 // if the radius is below 70, then its drowsy
-                if (radius < 70 && !alertToggle){
+                if (radius < 35 && !alertToggle){
                     new Handler(Looper.getMainLooper()).post(new Runnable() {
                         @Override
                         public void run() {
