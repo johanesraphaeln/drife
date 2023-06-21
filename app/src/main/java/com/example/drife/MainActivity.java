@@ -93,10 +93,8 @@ public class MainActivity extends AppCompatActivity implements CameraBridgeViewB
 
         AlertDialog.Builder dialogBuilder = new AlertDialog.Builder(MainActivity.this);
         dialogBuilder.setCancelable(true);
-        dialogBuilder.setTitle("Wake Up or Stop the Car");
-        dialogBuilder.setMessage("You are sleepy, please stop the car or wake up," +
-                "click the stop button to stop the alert sound, or we will notify " +
-                "the authorities");
+        dialogBuilder.setTitle("Drowsy Detected");
+        dialogBuilder.setMessage("Wake up and stop the car. Click the STOP button to close this alert.");
         dialogBuilder.setNegativeButton("Stop", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {
